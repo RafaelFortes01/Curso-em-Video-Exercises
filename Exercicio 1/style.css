@@ -18,7 +18,6 @@ time, mark, audio, video {
 }
 
 body {
-    background-color: rgb(236, 204, 162);
     font-family: "Caveat", cursive;
     font-weight: 700;
     font-size: 30px;
@@ -39,11 +38,11 @@ h1 {
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     
 }
-.horario {
+#horario {
     font-size: 2rem;
     padding: 15px 0 20px 0;
 }
-.imagemPrincipal {
+#imagemPrincipal {
     border-radius: 50%;   
 }
 
